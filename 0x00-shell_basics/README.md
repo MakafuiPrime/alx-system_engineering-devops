@@ -1,1 +1,1 @@
-Moving up the current directory
+Displaying content of current, parent and boot directories
