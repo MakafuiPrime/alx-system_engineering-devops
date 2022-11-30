@@ -1,1 +1,1 @@
-displays current directory contents in long format
+Displaying all contents in current working directory
