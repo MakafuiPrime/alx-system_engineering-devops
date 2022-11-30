@@ -1,1 +1,1 @@
-Displaying all contents in current working directory
+Display current directory content in digit only
