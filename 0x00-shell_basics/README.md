@@ -1,1 +1,1 @@
-Displaying content of current, parent and boot directories
+Knowing types of files
