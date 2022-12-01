@@ -1,1 +1,1 @@
-Groups the current user is a part of
+New ownership of a file
