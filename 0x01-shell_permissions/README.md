@@ -1,1 +1,1 @@
-Changing the group for a file
+changed owner and group of a directory
