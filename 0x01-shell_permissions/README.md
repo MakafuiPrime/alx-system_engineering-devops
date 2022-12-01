@@ -1,1 +1,1 @@
-Feeling like James Bond with permissions
+John Doe kind of permissions
