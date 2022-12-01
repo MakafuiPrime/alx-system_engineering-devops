@@ -1,1 +1,1 @@
-Switching users
+Show effective username of current user
