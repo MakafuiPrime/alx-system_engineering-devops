@@ -1,1 +1,1 @@
-Mirror style
+Permissions to subfolders
