@@ -1,1 +1,1 @@
-John Doe kind of permissions
+Mirror style
