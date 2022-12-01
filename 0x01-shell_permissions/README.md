@@ -1,1 +1,1 @@
-New directory with permissions
+Changing the group for a file
