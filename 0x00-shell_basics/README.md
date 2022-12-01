@@ -1,1 +1,1 @@
-Knowing types of files
+Created a symbolic link
