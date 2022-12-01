@@ -1,1 +1,1 @@
-Show effective username of current user
+Groups the current user is a part of
