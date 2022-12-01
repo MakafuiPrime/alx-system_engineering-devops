@@ -1,1 +1,1 @@
-changed owner and group of a directory
+Changed owner and group at a goal
