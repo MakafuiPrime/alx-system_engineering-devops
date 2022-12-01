@@ -1,1 +1,1 @@
-Allow owner of hello to execute
+Adding permissions to others
