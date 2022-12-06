@@ -1,1 +1,1 @@
-Long symbollic filename
+Change standard output
