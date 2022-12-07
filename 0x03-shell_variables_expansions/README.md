@@ -1,1 +1,1 @@
-All variables
+Local products
