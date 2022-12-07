@@ -1,1 +1,1 @@
-New global
+True knowledge
