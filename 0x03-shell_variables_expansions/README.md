@@ -1,1 +1,1 @@
-Local products
+New local
