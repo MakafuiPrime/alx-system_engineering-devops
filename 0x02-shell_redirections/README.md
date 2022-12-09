@@ -1,1 +1,1 @@
-Find that word
+Hiding the word
